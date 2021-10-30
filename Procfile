@@ -1,3 +1,3 @@
-web: node index.js
+web: node MarketMakerBot.js
 
-worker: node index.js
+worker: node MarketMakerBot.js
